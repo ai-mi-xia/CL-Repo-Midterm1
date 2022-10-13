@@ -1,6 +1,6 @@
 # CL-Repo-Midterm1
 
-For final project, check Week 5 Folder
+For final project, check "final" folder
 
 I plan to create a Joe Dispenza quote generator using 71 quotes from the community (he’s a meditation teacher). The sketch will be in the background (perhaps some sort of star/space animation?). The idea is that every day someone can enter the page (or just refresh) to get a randomly picked quote for the day. 
 Wireframes:
